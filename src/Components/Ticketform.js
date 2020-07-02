@@ -99,12 +99,7 @@ const Ticketform = () => {
               <textarea cols="5" rows="5" className="form-control"></textarea>
             </div>
 
-            <button
-              onClick={onSubmit}
-              className="btn btn-success btn-block mb-5"
-            >
-              Submit
-            </button>
+            <button className="btn btn-success btn-block mb-5">Submit</button>
           </form>
         </div>
       </div>
